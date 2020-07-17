@@ -1,0 +1,1 @@
+# Aktienkurse-aus-Webseiten-kratzen
