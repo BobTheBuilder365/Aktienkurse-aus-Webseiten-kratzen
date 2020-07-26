@@ -1,1 +1,3 @@
 # Aktienkurse-aus-Webseiten-kratzen
+
+# Das Beispiel beschreibt, wie mit Python automatisiert aus dem Internet Daten gewonnen werden. Dazu besuchen wir Webseiten, um daraus Informationen zu gewinnen, diese zu akkumulieren und ggf. zu analysieren. Da dies oft nicht von dem Anbieter der Webseite so gewollt ist, dieser das aber auch nicht verhindern kann, weil der komplette Inhalt einer Webseite im Klartext im Format HTML (hypertext markup language) übertragen wird, nennt man das Verfahren auch „Website scraping“. Man „kratzt“ also aus Webseiten Informationen heraus, um diese irgendwie weiterzuverwenden.
